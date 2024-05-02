@@ -11,3 +11,11 @@ Some Programming Concepts:
 - Built-in Classes (ex. Scanner, ArrayList, File)
 - File R/W
 - Implements Comparable Interface
+
+Required Files for Program:
+- Driver.java
+- Letter.java
+- Word.java
+- Wordlist.java
+- Grid.java
+- file.txt
