@@ -1,4 +1,4 @@
-ICS4U1 - Grade 12 Computer Science Culminating Group Project\
+**ICS4U1 - Grade 12 Computer Science Culminating Group Project**\
 Team: Michelle Nguyen, Zalea Ohren\
 Date of Completion: 2023-01-24\
 Achieved Grade: 100%
