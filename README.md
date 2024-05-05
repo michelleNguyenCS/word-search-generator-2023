@@ -4,7 +4,7 @@ Language: Java
 Date of Completion: 2023-01-24\
 Achieved Grade: 100%
 
-Program Description: A word search generator where a user can create a wordlist and use it to generate a word search.\
+Program Description: A word search generator where a user can create a wordlist and use it to generate a word search.
 
 Some Programming Concepts:
 - Text-Based GUI
